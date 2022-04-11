@@ -3,7 +3,7 @@ title: Calvary Episcopal Church
 subtitle: Seaside, Oregon
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Welcome
+  heading: Welcome 1
   text: >-
     We are a welcoming community striving together to know Christ and to make
     him known. We come from many different backgrounds politically and
